@@ -2,7 +2,7 @@
 
 ![Screenshot (33)](https://github.com/user-attachments/assets/419130b5-d79d-43d9-ae83-10cb26721021)
 
-#Introduction
+# Introduction
 
 An advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Saathi website make your visiting easy.
 
