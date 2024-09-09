@@ -21,7 +21,7 @@ RapidAPI Travel Advisor API Open Weather Map API
 
 # Deployment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/375ed3de-6182-4dd6-85f5-0a43b7f58c74/deploy-status)](https://app.netlify.com/sites/travelsaathi/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a092302e-7036-4113-a4be-9db4f630e38b/deploy-status)](https://app.netlify.com/sites/travelsaathi/deploys)
 
 Site Link :- https://travelsaathi.netlify.app
 
