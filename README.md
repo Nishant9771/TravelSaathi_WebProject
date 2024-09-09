@@ -1,3 +1,28 @@
+#Travel Saathi
+
+![Screenshot (33)](https://github.com/user-attachments/assets/419130b5-d79d-43d9-ae83-10cb26721021)
+
+#Introduction
+
+An advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Saathi website make your visiting easy.
+
+🌐 Using React such as hooks and refs
+👨‍👩‍👧‍👦 Creating a User Interface using Material UI
+📦 Working with Google Maps API
+📝 Fetching data from unlimited sources using RapidAPI
+❄ Exclusive working with APIs
+RapidAPI Travel Advisor API Open Weather Map API
+
+#Installation
+
+1. Install yarn,npm and all others Dependencies.
+2. Clone the Repository.
+3. Run yarn start.
+
+#Deployment
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/375ed3de-6182-4dd6-85f5-0a43b7f58c74/deploy-status)](https://app.netlify.com/sites/travelsaathi/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
